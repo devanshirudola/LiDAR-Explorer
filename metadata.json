@@ -1,0 +1,5 @@
+{
+  "name": "LiDAR and Data Science Explorer",
+  "description": "An interactive web application that explores LiDAR technology through the lens of data science, featuring dynamic visualizations and AI-powered explanations.",
+  "requestFramePermissions": []
+}
